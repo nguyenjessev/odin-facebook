@@ -1,24 +1,16 @@
-# README
+# Odin Facebook
+This is a web app replicating some of the basic functionality of facebook. Part of [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/rails-final-project)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Requirements
+Replicate the core functionality of facebook, including:
+* Friend requests/lists
+* Text/image posts
+* Likes
+* Commenting
+* Timeline
+* Etc.
 
-Things you may want to cover:
+# What I used
+Rails, Devise, Guard, Bulma
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# What I learned
