@@ -25,4 +25,8 @@ RSpec.describe User, type: :model do
     subject.display_name = nil
     expect(subject).to be_invalid
   end
+
+  it 'returns empty friendslist with no friends' do
+    expect(subject.friends).to be_empty
+  end
 end
